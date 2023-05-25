@@ -1,7 +1,4 @@
-'no-unused-vars': 0,
-'no-underscore-dangle': 0,
-'func-names': 0,
-'global-require': 0,
-'import/extensions': 0,
-'import/no-dynamic-require': 0,
-'import/prefer-default-export': 0,
+no var
+egegeg
+no-undef
+no-plusplus
